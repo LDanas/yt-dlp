@@ -17,8 +17,12 @@ MUST Download ^ In order to get .mp3 files.
 ### Redirect myself to C:\Users\danas\Videos\Muzika
 #### If there is no \Muzika, create a folder and call it that within \Videos
 
+────────────────────────────────
+
 Paste in the following command:
 
 yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 320k
 
-^ .mp3 download command line, within cmd.
+↑ .mp3 download command line, within cmd.
+
+────────────────────────────────
