@@ -1,5 +1,5 @@
 # yt-dlp
-A notepad for myself on how to download mp3 / mp4 videos to my directory
+A notepad for myself on how to download mp3 / mp4 videos to my directory in case I have a new PC
 
 # [Documentation](https://github.com/yt-dlp/yt-dlp)
 
