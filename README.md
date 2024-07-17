@@ -15,6 +15,7 @@ MUST Download ^ In order to get .mp3 files.
 ────────────────────────────────
 
 ### Redirect myself to C:\Users\danas\Videos\Muzika
+#### If there is no \Muzika, create a folder and call it that within \Videos
 
 Paste in the following command:
 
